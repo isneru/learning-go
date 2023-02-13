@@ -1,6 +1,6 @@
-# Learning Go - REST API
+# Learning Go - TODO CLI
 
-A small [Go](https://go.dev) project that fetches data from an external API and retrieves it in your own endpoint.
+A small [Go](https://go.dev) CLI project that manages a TODO list.
 
 ## Getting Started
 
